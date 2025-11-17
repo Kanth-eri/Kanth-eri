@@ -10,7 +10,7 @@ Atualmente estou estudando no programa 1000Devs.
 💻 Desenvolvendo projetos em Java, Front-end e segurança da informação
 
 <div align="center">
-  <img loading="lazy" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth-eri&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanth-eri&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" width="48%" src="https://github-readme-stats.vercel.app/api?username=kanth-eri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
