@@ -25,7 +25,7 @@ $\color{#FA8072}{\text{String}}$ hobbies = "No meu tempo livre gosto de atirar c
 
 ###
 
-<h3 align="left">System.out.println("Habilidades e Ferramentas");</h3>
+<h3 align="left">$\textsf{System.}\color{#DDA0DD}{\textsf{out}}\color{#FFFFFF}{\textsf{.println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Habilidades\ e\ Ferramentas"}}\color{#FFFFFF}{\textsf{);}}$
 
 ###
 
