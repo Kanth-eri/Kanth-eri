@@ -14,7 +14,7 @@
 
 ###
 
-### $\mathtt{System.}\color{#DDA0DD}{\textit{out}}\mathtt{.println("Sobre\ mim");}$
+### $\mathtt{System.}\color{#DDA0DD}{\textit{out}}\mathtt${.println("Sobre\ mim");
 
 <p align="left">
 $\color{#FA8072}{\text{String}}$ graduacao = "Formado em Publicidade e Propaganda na Unicesumar";<br>
