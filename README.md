@@ -13,7 +13,7 @@
 <h1 align="center">System.out.println("Olá! Meu nome é Rafael");</h1>
 
 ###
-### $\mathtt{System.}\color{#DDA0DD}{\textit{\mathtt{out}}}\mathtt{.println("Sobre\ mim");}$
+### $\mathtt{System.}\color{#DDA0DD}{\textit{\mathtt{out}}}\mathtt{.println("}\color{#A5D6A7}{\mathtt{Sobre\ mim}}\mathtt{");}$
 
 <p align="left">
 $\color{#FA8072}{\text{String}}$ graduacao = "Formado em Publicidade e Propaganda na Unicesumar";<br>
