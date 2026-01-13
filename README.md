@@ -14,14 +14,14 @@
 
 ###
 
-### <h3 align="left">System.$\textit{\color{#DDA0DD}{out}}$.println("Sobre mim");</h3>
+### <h3 align="left">System.$\color{#DDA0DD}{\textit{out}}$.println("Sobre mim");</h3>
 
 <p align="left">
-$\color{#FA8072}{\text{String}}$ graduacao = "Formado em Publicidade e Propaganda na Unicesumar";<br>
-$\color{#FA8072}{\text{String}}$ trabalhoAtual = "Atualmente trabalho como Designer Gráfico";<br>
-$\color{#FA8072}{\text{String}}$ segundaGraducao = "Estudando Ciência da Computação na UFBRA e cursando 1000Devs da Mesttra";<br>
-$\color{#FA8072}{\text{String}}$ meta = "Almejo me tornar um especialista em cibersegurança";<br>
-$\color{#FA8072}{\text{String}}$ hobbies = "No meu tempo livre gosto de atirar com arco e flecha, desenhar, jogar e ler";
+$\color{#FA8072}{\mathtt{String}}$ graduacao = "Formado em Publicidade e Propaganda na Unicesumar";  
+$\color{#FA8072}{\mathtt{String}}$ trabalhoAtual = "Atualmente trabalho como Designer Gráfico";  
+$\color{#FA8072}{\mathtt{String}}$ segundaGraducao = "Estudando Ciência da Computação na UFBRA";  
+$\color{#FA8072}{\mathtt{String}}$ meta = "Almejo me tornar um especialista em cibersegurança";  
+$\color{#FA8072}{\mathtt{String}}$ hobbies = "Arco e flecha, desenhar, jogar e ler";
 </p>
 
 ###
