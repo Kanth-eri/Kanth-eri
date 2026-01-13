@@ -16,11 +16,11 @@
 ### $\textsf{System.}\color{#DDA0DD}{\textsf{out}}\color{#FFFFFF}{\textsf{.println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Sobre\ mim"}}\color{#FFFFFF}{\textsf{);}}$
 
 <p align="left">
-$\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ graduacao\ =}} \color{#A5D6A7}{\textsf{"Formado\ em\ Publicidade\ e\ Propaganda\ na\ Unicesumar"}}$ <br>
-$\color{#FA8072}{\text{String}}$ trabalhoAtual = "Atualmente trabalho como Designer Gráfico";<br>
-$\color{#FA8072}{\text{String}}$ segundaGraducao = "Estudando Ciência da Computação na UFBRA e cursando 1000Devs da Mesttra";<br>
-$\color{#FA8072}{\text{String}}$ meta = "Almejo me tornar um especialista em cibersegurança";<br>
-$\color{#FA8072}{\text{String}}$ hobbies = "No meu tempo livre gosto de atirar com arco e flecha, desenhar, jogar e ler";
+$\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ graduacao\ =}} \color{#A5D6A7}{\textsf{"Formado\ em\ Publicidade\ e\ Propaganda\ na\ Unicesumar."}}$ <br>
+$\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ trabalhoAtual\ =}} \color{#A5D6A7}{\textsf{"Atualmente\ trabalho\ como\ Designer\ Gráfico."}}$ <br>
+$\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ segundaGraducao\ =}} \color{#A5D6A7}{\textsf{"Estudando\ Ciência\ da\ Computação\ na\ UFBRA\ e\ cursando\ 1000Devs\ da\ mesttra."}}$ <br>
+$\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ meta\ =}} \color{#A5D6A7}{\textsf{"Almejo\ me\ tornar\ um\ especialista\ em\ cibersegurança."}}$ <br>
+$\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ hobbies\ =}} \color{#A5D6A7}{\textsf{"No\ meu\ tempo\ livre\ gosto\ de\ atirar\ com\ arco\ e\ flecha,\ dsenhar,\ jogar\ e\ ler."}}$ <br>
 </p>
 
 ###
