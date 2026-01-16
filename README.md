@@ -48,7 +48,7 @@ $\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ hobbies\ =}} \color{#A5D6A
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/springboot-original.svg" height="40" alt="springboot logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/spring-original.svg" height="40" alt="springboot logo"  />
 </div>
 
 ###
