@@ -25,7 +25,7 @@ $\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ hobbies\ =}} \color{#A5D6A
 
 ###
 
-<h3 align="left">$\textsf{IO.}\color{#FFFFFF}{\textit{.println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Habilidades\ e\ Ferramentas"}}\color{#FFFFFF}{\textsf{);}}$
+<h3 align="left">$\textsf{IO.}\color{#FFFFFF}{\textit{println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Habilidades\ e\ Ferramentas"}}\color{#FFFFFF}{\textsf{);}}$
 
 ###
 
