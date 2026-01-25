@@ -10,10 +10,10 @@
 
 ###
 
-<h1 align="center">$\textsf{System.}\color{#DDA0DD}{\textsf{out}}\color{#FFFFFF}{\textsf{.println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Olá!\ meu\ nome\ é\ Rafael\ Canteri."}}\color{#FFFFFF}{\textsf{);}}$
+<h1 align="center">$\textsf{IO.}\color{#FFFFFF}{\textit{println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Olá!\ meu\ nome\ é\ Rafael\ Canteri."}}\color{#FFFFFF}{\textsf{);}}$
 
 ###
-### $\textsf{System.}\color{#DDA0DD}{\textsf{out}}\color{#FFFFFF}{\textsf{.println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Sobre\ mim"}}\color{#FFFFFF}{\textsf{);}}$
+### $\textsf{IO.}\color{#FFFFFF}{\textit{println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Sobre\ mim"}}\color{#FFFFFF}{\textsf{);}}$
 
 <p align="left">
 $\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ graduacao\ =}} \color{#A5D6A7}{\textsf{"Formado\ em\ Publicidade\ e\ Propaganda\ na\ Unicesumar."}}\color{#FFFFFF}\text{;}$ <br>
@@ -25,7 +25,7 @@ $\color{#FA8072}{\text{String}}\color{#FFFFFF}{\text{ hobbies\ =}} \color{#A5D6A
 
 ###
 
-<h3 align="left">$\textsf{System.}\color{#DDA0DD}{\textsf{out}}\color{#FFFFFF}{\textsf{.println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Habilidades\ e\ Ferramentas"}}\color{#FFFFFF}{\textsf{);}}$
+<h3 align="left">$\textsf{IO.}\color{#FFFFFF}{\textit{.println}}\color{#FFFFFF}{\textsf{(}}\color{#A5D6A7}{\textsf{"Habilidades\ e\ Ferramentas"}}\color{#FFFFFF}{\textsf{);}}$
 
 ###
 
